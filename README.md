@@ -1,2 +1,2 @@
 # calculator
-The firt project that did with javascript
+The first project that did with javascript
